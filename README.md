@@ -24,7 +24,7 @@ Welcome to the ChatWise-GPT project! This application demonstrates a modern chat
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dankgarlic1/AI-Chatbot.git
+   git clone https://github.com/Perseus-rescuer/NFT-Game-Vue.git
    ```
 
 2. **Navigate to the project directory:**
@@ -78,9 +78,5 @@ This project is licensed under a **Commercial License**. You may not copy, distr
 - [OpenAI](https://openai.com) for providing the AI model.
 - [Material-UI](https://mui.com) for the modern design components.
 - [MERN Stack](https://www.mongodb.com/mern-stack) for the robust technology stack.
-
-## Contact
-
-For any questions or inquiries, please reach out to my [LinkedIn profile](https://www.linkedin.com/in/harshit-raizada-32b909231/).
 
 ---
